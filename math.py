@@ -22,3 +22,5 @@ def divide(x,y):
         else
             return ERROR
     pass
+def sq(x):
+    return x*x
