@@ -18,7 +18,7 @@ def multiply(x,y):
 # Divide implementation
 def divide(x,y):
         if x>y:
-            return 1
+            return x/y
         else
             return ERROR
     pass
